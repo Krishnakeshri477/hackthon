@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+#anime:hover {
+    transform: scale(1.2);
+    box-shadow: 0 0 20px rgba(52, 152, 219, 0.7);
+  }
